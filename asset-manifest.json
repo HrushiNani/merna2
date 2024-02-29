@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/merna2/static/css/main.c6974e70.css",
+    "main.js": "/merna2/static/js/main.4dfb2c83.js",
+    "static/js/453.87325678.chunk.js": "/merna2/static/js/453.87325678.chunk.js",
+    "index.html": "/merna2/index.html",
+    "main.c6974e70.css.map": "/merna2/static/css/main.c6974e70.css.map",
+    "main.4dfb2c83.js.map": "/merna2/static/js/main.4dfb2c83.js.map",
+    "453.87325678.chunk.js.map": "/merna2/static/js/453.87325678.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6974e70.css",
+    "static/js/main.4dfb2c83.js"
+  ]
+}
